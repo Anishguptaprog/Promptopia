@@ -1,4 +1,4 @@
-##This website is still in progress I'll keep updating as I keep making progress. 
+## This website is still in progress I'll keep updating as I keep making progress. 
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
